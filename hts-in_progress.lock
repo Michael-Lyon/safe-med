@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 26 Aug 2024 08:46:03 .. please wait!
+winhttrack https://demo.awaikenthemes.com/html-preview/medipro/ -O "/Users/pygod/websites/hospital" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=35956
+UID=501
+GID=501
+START=1724658363

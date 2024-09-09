@@ -1,0 +1,47 @@
+HTTrack3.49-2 launched on Mon, 26 Aug 2024 08:46:03 at https://demo.awaikenthemes.com/html-preview/medipro/
+(winhttrack https://demo.awaikenthemes.com/html-preview/medipro/ -O "/Users/pygod/websites/hospital" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:47:19	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://demo.awaikenthemes.com/html-preview/medipro/)
+08:47:20	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://demo.awaikenthemes.com/html-preview/medipro/)
+08:48:59	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+08:49:44	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=Y-x0efG1seA)
+08:55:07	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=Y-x0efG1seA (from https://www.youtube.com/watch?v=Y-x0efG1seA)
+08:55:18	Error: 	"Not Found" (404) at link https://www.youtube.com/Edg/ (from https://www.youtube.com/watch?v=Y-x0efG1seA)
+08:55:19	Warning: 	Moved Permanently for https://www.youtube.com/about/
+08:55:19	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+08:55:19	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
+08:55:19	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
+08:55:19	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
+08:55:19	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+08:58:35	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
+08:58:35	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+08:59:29	Warning: 	Retry after error -4 (Incorrect length (6982926 Bytes, 9848918 expected)) at link https://www.youtube.com/s/desktop/b9bfb983/jsbin/desktop_polymer_legacy_browsers.vflset/desktop_polymer_legacy_browsers.js (from https://www.youtube.com/watch?v=Y-x0efG1seA)
+08:59:40	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=Y-x0efG1seA)
+09:03:06	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCe4bQBIKRLKAk-yn5GuOk5w (from https://www.youtube.com/@LeighonYouTube)
+09:03:06	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/Y-x0efG1seA)
+09:03:06	Warning: 	See Other for https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/
+09:03:06	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
+09:03:09	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
+09:03:09	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
+09:03:53	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/yt/about/press/
+09:03:53	Warning: 	File has moved from https://www.youtube.com/intl/en/yt/about/press/ to https://www.youtube.com/intl/en/about/press/
+09:03:56	Warning: 	Moved Permanently for https://www.youtube.com/creators/benefits/
+09:03:56	Warning: 	File has moved from https://www.youtube.com/creators/benefits/ to https://www.youtube.com/creators/awards/
+09:04:09	Warning: 	Moved Permanently for https://www.youtube.com/yt/advertise/
+09:04:09	Warning: 	File has moved from https://www.youtube.com/yt/advertise/ to https://www.youtube.com/ads/
+09:41:50	Warning: 	Found for https://www.youtube.com/yt/family/
+09:41:50	Warning: 	File has moved from https://www.youtube.com/yt/family/ to https://www.youtube.com/go/family/
+09:42:02	Warning: 	Moved Permanently for https://www.youtube.com/creatorresearch/
+09:42:02	Warning: 	File has moved from https://www.youtube.com/creatorresearch/ to https://www.youtube.com/creators/research/
+09:42:08	Warning: 	Moved Permanently for https://www.youtube.com/nextup/
+09:42:08	Warning: 	File has moved from https://www.youtube.com/nextup/ to https://www.youtube.com/creators/
+09:42:10	Warning: 	Moved Permanently for https://www.youtube.com/creators-for-change/
+09:42:10	Warning: 	File has moved from https://www.youtube.com/creators-for-change/ to https://www.youtube.com/creators/
+09:42:12	Warning: 	Link https://www.youtube.com/csai-match/ not scanned (follow robots meta tag)
+09:42:25	Warning: 	Moved Permanently for https://www.youtube.com/about/brand-resources/
+09:42:25	Warning: 	File has moved from https://www.youtube.com/about/brand-resources/ to https://www.youtube.com/howyoutubeworks/resources/brand-resources/

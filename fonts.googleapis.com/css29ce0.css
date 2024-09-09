@@ -1,0 +1,437 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cYrLiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cQrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cdTKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cYrKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cbjKiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cVTNiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GmtSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G2tSNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GKteNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts.gstatic.com/s/googlesymbols/v291/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3GeteNljixIIGUsC62cW3NiAk.ttf) format('truetype');
+}
+
+.google-symbols {
+  font-family: 'Google Symbols';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+}
